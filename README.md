@@ -1,2 +1,2 @@
 # blog_recomendation
-just download folder and open home.html file.
+just download all files and place all of them in one folder and open home.html file.
